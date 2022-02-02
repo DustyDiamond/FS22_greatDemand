@@ -18,7 +18,7 @@ Da die Große Nachfrage im LS22 derzeit nicht funktioniert, habe ich beschlossen
 Die Mod wird nicht weitergeführt sobald GIANTS den bug fixed.
 ]]></de>
     </description>
-    </iconFilename>modIcon.dds</iconFilename>
+    <iconFilename>modIcon.dds</iconFilename>
     <multiplayer supported="true" />
     <l10n filenamePrefix="language" />
     <extraSourceFiles>
