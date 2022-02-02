@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <l10n>
-    <translationContributors>w33zl</translationContributors>
+    <translationContributors>DustyDiamond</translationContributors>
     <texts>
         <text name="enabled" text="Aktiviert" />
         <text name="disabled" text="Deaktiviert" />
         <text name="exitMode" text="Zum Menü zurückkehren" />
         <text name="buttonOk" text="Ok" />
         <text name="buttonCancel" text="Abbrechen" />
-        
+
     </texts>
 </l10n>
 
