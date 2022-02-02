@@ -22,6 +22,7 @@ Die Mod wird nicht weitergeführt sobald GIANTS den bug fixed.
     <multiplayer supported="true" />
     <l10n filenamePrefix="language" />
     <extraSourceFiles>
+        <sourceFile filename="lib/modhelper.lua" />
         <sourceFile filename="greatDemands.lua" />
     </extraSourceFiles>
 
