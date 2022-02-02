@@ -14,8 +14,11 @@ v0.0.2:
 
 GreatDemands = Mod:init()
 
-GreatDemands:enableDebugMode()
+--GreatDemands:enableDebugMode()
 
 function GreatDemands:loadMap()
-    print("Great Demands Mod Loaded!")
+    self:printInfo("Great Demands Mod Loaded!")
+
+    self.debugMode = true
+    self:printDebug("Debug Mode is now on")
 end
