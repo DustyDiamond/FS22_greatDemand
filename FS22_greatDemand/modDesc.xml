@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<modDesc descVersion="61">
+    <author>DustyDiamond</author>
+    <version>0.0.1.0</version>
+    <title>
+        <en>Great Demands</en>
+        <de>Große Nachfrage</de>
+    </title>
+    <description>
+        <en><![CDATA[
+Great Demand Mod for Farming Simulator 22 (FS22)
+Since the Great Demands in FS22 are broken as of now, I decided to write a quick and dirty mod for it.
+This mod will be discontinued as soon as GIANTS fixes the Great Demands in Game.
+]]></en>
+        <de><![CDATA[
+Große Nachfrage Mod für den Landwirtschafts Simulator 22 (LS22)
+Da die Große Nachfrage im LS22 derzeit nicht funktioniert, habe ich beschlossen einfach eine "quick and dirty" mod dafür zu schreiben.
+Die Mod wird nicht weitergeführt sobald GIANTS den bug fixed.
+]]></de>
+    </description>
+    </iconFilename>modIcon.dds</iconFilename>
+    <multiplayer supported="true" />
+    <l10n filenamePrefix="language" />
+    <extraSourceFiles>
+        <sourceFile filename="greatDemands.lua" />
+    </extraSourceFiles>
+
+</modDesc>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>w33zl</translationContributors>
+    <texts>
+        <text name="enabled" text="Enabled" />
+        <text name="disabled" text="Disabled" />
+        <text name="exitMode" text="Exit to menu" />
+        <text name="buttonOk" text="Ok" />
+        <text name="buttonCancel" text="Cancel" />
+
+    </texts>
+</l10n>
+

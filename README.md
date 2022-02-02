@@ -1,4 +1,4 @@
-# FS22_greatDemand
+# FS22 Great Demand Mod
 
 ![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/dustydiamond/FS22_greatDemand?include_prereleases&sort=date) ![GitHub](https://img.shields.io/github/license/DustyDiamond/FS22_greatDemand)
 
